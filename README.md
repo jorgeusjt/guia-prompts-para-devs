@@ -249,3 +249,6 @@ braineryspot.com
 braineryspot.com
 . Com o tempo, você encontrará um equilíbrio onde a IA cuida das partes tediosas e repetitivas, liberando você para se concentrar em design, resolução de problemas e inovação, que são as áreas em que o desenvolvedor humano agrega mais valor. Boa codificação e bom proveito das IAs!
 braineryspot.com
+
+![Texto alternativo](./tres.png)
+
